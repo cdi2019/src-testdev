@@ -1,2 +1,0 @@
-# src-testdevGiritest 
-@DB update
